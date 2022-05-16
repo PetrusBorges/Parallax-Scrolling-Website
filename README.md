@@ -7,7 +7,7 @@ Protótipo de treino tendo como base o sistema de parallax scrolling!
 Este projeto foi desenvolvido para praticar e desenvolver técnicas de programação em parallax scrolling.
 Nele foi possivel ter conhecimentos fundamentais de HTML e CSS.
 
-https://user-images.githubusercontent.com/105453766/168693359-41b1c92e-3f9d-4f19-9220-4a202a18b267.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/105453766/168693495-af67ada2-eaf1-45cd-b6a0-ea22b190f185.gif)
 
 ## 🛠️ Construído com
 
